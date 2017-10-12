@@ -10,6 +10,11 @@
 </head>
 <body>
 Heloooo
+<ul>
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Melon</li>
+</ul>
 </body>
 </html>
 
